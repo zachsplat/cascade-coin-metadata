@@ -1,0 +1,16 @@
+{
+  "name": "CascadeCoin",
+  "symbol": "CASC",
+  "description": "A standard Solana SPL token created for demonstration and investment purposes.",
+  "image": "https://raw.githubusercontent.com/zachsplat/cascade-coin-metadata/main/logo.svg",
+  "external_url": "https://github.com/zachsplat/cascade-coin-metadata",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/zachsplat/cascade-coin-metadata/main/logo.svg",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
+}
