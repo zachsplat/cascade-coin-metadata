@@ -1,0 +1,47 @@
+{
+  "name": "Cascade",
+  "symbol": "CASC",
+  "description": "Cascade - A community-focused Solana token with automatic liquidity generation and fair distribution mechanism.",
+  "image": "https://raw.githubusercontent.com/zachsplat/cascade-coin-metadata/main/cascade-logo.png",
+  "external_url": "https://cascadecoin.org",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Mechanism",
+      "value": "Liquidity Generation"
+    },
+    {
+      "trait_type": "Distribution",
+      "value": "Fair"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/zachsplat/cascade-coin-metadata/main/cascade-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DS1ptDAxUjzoRiwGkXy7C5zjXCBAoexkg7yH4pJB5ge8",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://cascadecoin.org",
+    "twitter": "https://twitter.com/CascadeToken",
+    "mint": "7sNLU87cjA3A9etDyXmMCCmZRKCn3mv2DnPDeXphzf11",
+    "orcaPool": "HRrnatW1qyGaFx9EcXWve4YRDs8ca4opHxB9eLzA87BQ",
+    "orcaPoolUrl": "https://www.orca.so/pools/HRrnatW1qyGaFx9EcXWve4YRDs8ca4opHxB9eLzA87BQ"
+  }
+}
