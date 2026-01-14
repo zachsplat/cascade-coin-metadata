@@ -2,7 +2,7 @@
   "name": "Cascade",
   "symbol": "CASC",
   "description": "Cascade - A community-focused Solana token with automatic liquidity generation and fair distribution mechanism.",
-  "image": "https://cdn.jsdelivr.net/gh/zachsplat/cascade-coin-metadata@b8a0375/cascade-logo.png",
+  "image": "https://cdn.jsdelivr.net/gh/zachsplat/cascade-coin-metadata@505705c/cascade-logo.png",
   "external_url": "https://cascadecoin.org",
   "attributes": [
     {
@@ -25,7 +25,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/zachsplat/cascade-coin-metadata@b8a0375/cascade-logo.png",
+        "uri": "https://cdn.jsdelivr.net/gh/zachsplat/cascade-coin-metadata@505705c/cascade-logo.png",
         "type": "image/png"
       }
     ],
